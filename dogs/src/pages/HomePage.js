@@ -21,7 +21,7 @@ export default function HomePage(){
     const [favoriteCard, setFavoriteCard] = useState(false);
 
 
-    const [page, setPage] = useState(1);
+    const [page, setPage] = useState(0);
     const [pageSize, setPageSize] = useState(25);
 
     // use a table with a bunch of filtering abilities on top
