@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "homepage": "https://joelmandell2.github.io/fetch_dogs",
   "private": true,
-  "homepage": "https://joelmandell2.github.io/fetch_dogs/dogs",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
